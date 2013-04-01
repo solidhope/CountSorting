@@ -14,7 +14,7 @@ void countSort(int a[], int k, int n)
 {
     int i, j;
     
-    int b[10], c[50];
+    int b[10], c[50 ];
     
     for(i = 0; i <= k; i++)
         
