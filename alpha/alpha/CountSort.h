@@ -1,3 +1,8 @@
+// init. count array to 0
+// count the # of times each value occurs in the input. 
+// modify the counting array to give the number of values smaller than index
+// xfer numbers from input to output array at locations provided by counting array
+
 #pragma once
 #ifndef alpha_CountSort_h
 #define alpha_CountSort_h
